@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/watilde/hello-scoped-package/issues"
   },
-  "homepage": "https://github.com/watilde/hello-scoped-package"
+  "homepage": "https://github.com/watilde/hello-scoped-package",
+  "dependencies": {}
 }
